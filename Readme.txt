@@ -1,4 +1,4 @@
-The code is related to the paper: XXXXX
+The code is related to the paper: XXXXX (will be updated soon)
 
 The code is used to run three-dimensional (3D) and two-dimensional (2D) order index analysis on images from cytoskeletal structures.
 
