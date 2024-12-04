@@ -1,4 +1,8 @@
-The code is related to the paper: XXXXX (will be updated soon)
+The code is related to our paper:
+
+["Architecture-driven quantitative nanoscopy maps cytoskeleton remodeling." ](https://www.pnas.org/doi/abs/10.1073/pnas.2410688121)<br>
+PNAS, Wenjie Liu and Zhiyi Liu, 121.42 (2024): e2410688121
+
 
 The code is used to run three-dimensional (3D) and two-dimensional (2D) order index analysis on images from cytoskeletal structures.
 
