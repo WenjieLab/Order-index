@@ -1,5 +1,6 @@
-The code is related to our paper:
+The code is developed for quantitative orientation and order-index analysis of microscopy images.
 
+Method details can be found in our paper:
 Architecture-driven quantitative nanoscopy maps cytoskeleton remodeling", PNAS, Wenjie Liu and Zhiyi Liu, 121.42 (2024): e2410688121
 (https://www.pnas.org/doi/abs/10.1073/pnas.2410688121)
 
